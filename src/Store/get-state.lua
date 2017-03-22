@@ -1,4 +1,4 @@
-function getState(self)
+local function getState(self)
   return self._state
 end
 
